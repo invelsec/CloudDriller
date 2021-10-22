@@ -1,0 +1,5 @@
+requests
+optparse
+mmh3
+shodan
+base64
